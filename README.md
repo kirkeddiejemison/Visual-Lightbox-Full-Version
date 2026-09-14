@@ -241,4 +241,4 @@ This repository serves as the official landing page for Visual LightBox. The sof
 **Get the most recent version of Visual LightBox today!**
 
 ---
-**Last updated:** 2026-09-13 22:46:19 UTC
+**Last updated:** 2026-09-14 00:35:26 UTC
